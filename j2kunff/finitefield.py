@@ -1,6 +1,6 @@
 import random
-from polynomial import polynomialsOver
-from modp import *
+from .polynomial import polynomialsOver
+from .modp import *
 
 
 

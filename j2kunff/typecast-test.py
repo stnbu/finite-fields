@@ -1,5 +1,5 @@
-from modp import *
-from polynomial import *
+from j2kunff.modp import *
+from j2kunff.polynomial import *
 
 
 mod3 = IntegersModP(3)

@@ -1,5 +1,5 @@
-from modp import *
-from test import test
+from j2kunff.modp import *
+from j2kunff.test import test
 
 mod7 = IntegersModP(7)
 

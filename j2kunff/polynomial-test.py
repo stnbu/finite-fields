@@ -1,9 +1,9 @@
 from __future__ import division
-from test import test
+from j2kunff.test import test
 from fractions import Fraction
-from polynomial import *
+from j2kunff.polynomial import *
 
-from modp import *
+from j2kunff.modp import *
 
 Mod5 = IntegersModP(5)
 Mod11 = IntegersModP(11)

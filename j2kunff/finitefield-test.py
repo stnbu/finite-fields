@@ -1,7 +1,7 @@
-from test import test
-from finitefield import *
-from polynomial import *
-from modp import *
+from j2kunff.test import test
+from j2kunff.finitefield import *
+from j2kunff.polynomial import *
+from j2kunff.modp import *
 
 def p(L, q):
    f = IntegersModP(q)
